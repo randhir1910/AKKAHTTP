@@ -1,1 +1,3 @@
 AKKA HTTP CRUD operation
+SPRAY JSON
+MYSQL
